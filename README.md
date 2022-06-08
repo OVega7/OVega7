@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello Everyone 👋
+
+Oscar here. I recently graduated from the University of Houston-Downtown with a Bachelor of Science in Data Science with minors in Mathematics and Applied Statistics. My background includes working for oil and gas companies and most recently for a non-profit law firm which provides free legal representation to families with limited resources. I'm currently working on finding employment in the new field of data science. 
+
+This page contains a few projects I've worked on during my studies and some personal projects. 
 
 <!--
 **OVega7/OVega7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
